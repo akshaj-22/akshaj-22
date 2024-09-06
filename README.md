@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Akshaj Babu T S</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">A Passionate Fullstack Developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshaj-22" alt="akshaj-22" /></a> </p>
 
 - 🌱 I’m currently learning **Blockchain Technology**
+
+- 🎓 I have done MCA from CUSAT.
 
 - 👨‍💻 All of my projects are available at [akshaj-22.github.io](akshaj-22.github.io)
 
