@@ -2,6 +2,7 @@
 <h3 align="center">A Passionate Fullstack Developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshaj-22" alt="akshaj-22" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 - 🌱 I’m currently learning **Blockchain Technology**
 
