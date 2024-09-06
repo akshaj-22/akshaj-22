@@ -14,8 +14,6 @@
 
 - 📫 How to reach me **akshajbabu21@gmail.com**
 
-- 📄 I like to build things, [learn how things works & build em.](learn how things works & build em.)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/akshaj-babu-851613257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshaj-babu-851613257" height="30" width="40" /></a>
