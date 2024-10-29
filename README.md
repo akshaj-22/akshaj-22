@@ -1,4 +1,13 @@
+<div align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3A0ZGdjcHJxb2ltNGU4c2p0N2RxdzkwbHljaHlsbWptdzhqMmhxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" height="300px" width="auto">
+</div>
+
+
 #  Hey! I’m Akshaj—Sculpting Code, Unraveling Blockchain Mysteries, and Soaring Through the Tech Universe! 
+
+
+
+
 # 💫 About Me:
 I’m passionate about immersing myself in code, always eager to explore the endless potential of the MERN stack and blockchain technology. Though I’m just starting as a fresher, my excitement for creating meaningful, real-world applications knows no bounds. 🌟
 
